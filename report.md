@@ -11,8 +11,18 @@ The objective of this assignment is to introduce you to the use of pre-trained m
   - Document the results and the steps you took to achieve them.
     
 ![gcp](https://github.com/user-attachments/assets/23dedb5d-ef32-4695-85db-b57852b04a61)
-![gcp 2](https://github.com/user-attachments/assets/3004aee3-162f-4141-93b9-c5561f81e3f6)
-![notebook](https://github.com/user-attachments/assets/629ea9ce-a3f9-49cf-852c-70e738e7de2a)
+
+Go into Collab Enterprise notebook, install the necessary libraries for using the Speech-to-Text API:
+  
+![code](https://github.com/user-attachments/assets/20b617aa-987a-42ce-9c5d-946892ad91ea)
+
+Ensure the speech to text api is enabled otherwised during the authenticate user, we would get error
+  
+![error](https://github.com/user-attachments/assets/fc0bfb9c-4325-4c2a-a6cd-16a737b1a69c)
+
+Could not get this code to work
+
+
 
 
 
@@ -21,6 +31,14 @@ The objective of this assignment is to introduce you to the use of pre-trained m
   - In the same or a new notebook, interact with the GCP Vision API.
   - Upload an image and use the Vision API to detect objects or text within the image.
   - Document the results and provide a brief analysis of the model's accuracy.
+
+![vision_api](https://github.com/user-attachments/assets/975b1217-0f61-4dad-88b2-4474d1739123)
+Ensure vision api is enabled otherwised during the authenticate user, we would get error
+
+![error](https://github.com/user-attachments/assets/b4677fe1-5965-45be-a360-ce295ade56ab)
+Could not get this code to work
+
+
   
 - **Azure AI Vision:**
   - Switch to Azure and access Azure Machine Learning (AML) Notebooks.
